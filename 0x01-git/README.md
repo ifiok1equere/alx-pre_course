@@ -1,2 +1,2 @@
 My second readme
-Update made
+Update made as requested
