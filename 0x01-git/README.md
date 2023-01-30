@@ -1,1 +1,1 @@
-My first Git project
+My first Git and GitHub project
